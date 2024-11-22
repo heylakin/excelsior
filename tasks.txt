@@ -1,0 +1,60 @@
+App Tasks:
+// build question data
+// fix character choice override
+// radio click
+// Pop-up for No Next Question. Build. Render. Write Information.
+
+// Pop-up for are you sure about creting new character. Build. Render. Write Information.
+// SetTimeout for 'We are processing the data, to make sure'
+// render and style defaultstates for question and character
+// render and style Character with a box giving details from character
+// animations fade-in
+
+Final Touches:
+// commit to github
+// github to netlify
+
+
+Questions:
+1 . From one of the following, how would you describe your personality?
+    Characteristic Options
+        'Humble', 'Pessimistic', 'Playful', 'Ruthless', 'Honest', 'Brave'
+
+2 . Which of the following, is your desired weapon?
+    Characteristic Options
+        'Longsword', 'Bow', 'Explosives', 'Dual-Headed Axe', 'Hidden Blades', 'Fists'
+
+
+3 . What is your style of Combat?
+    Characteristic Options
+        'Path of the Ninja: Dexterity', 'Path of the Cicada: Constitution', 'Path of the Beast: Strength', 'Path of the Mind: Intelligence', 'Path of the Leader: Wisdom', 'Path of the Swindel: Charisma'
+
+4 . Which character stature do your prefer?
+    Characteristic Options
+        'Small, but Mighty', 'Part-Human, Part-Beast', 'Patient, Highly Intelligent', 'Lacks Combat, Instantly Charms', 'Leave no Trail, only Bloodshed'
+
+
+Characters:
+1 . Kaikoa
+    Sentiment: 'Humble', 'Longsword', 'Path of the Beast: Strength', 'Part-Human, Part-Beast'
+    Description: Barbarian: Part-Human, Part-Beast.
+
+2 . Adlana
+    Sentiment: 'Pessimistic', 'Bow', 'Path of the Mind: Intelligence', 'Patient, Highly Intelligent'
+    Description: Elf: Highly Intelligent, patience is their strength, like a lion watching its prey.
+
+3 . Bulbor
+    Sentiment: 'Playful', 'Dual-Headed Axe', 'Path of the Cicada: Constitution', 'Small, but Mighty'
+    Description: Dwarf: Fast, Aggresive, and Stronger than any species.
+
+4 . Shuhiro
+    Sentiment: 'Ruthless', 'Hidden Blades', 'Path of the Ninja: Dexterity', 'Leave no Trail, only Bloodshed'
+    Description: Nagana: They only leave a trial of bloodshed
+
+5 . Callum
+    Sentiment: 'Honest', 'Fists', 'Path of the Swindel: Charisma', 'Lacks Combat, but Instantly Charms'
+    Description: Human: Pretty Useless, but can mainpulate any living creature
+
+6 . Aresgo
+    Sentiment: 'Brave', 'Explosives', 'Path of the Mind: Intelligence', 'Patient, and Highly Intelligent'
+    Description: Elf: Highly Intelligent, patience is their strength, like a lion watching its prey.

@@ -11,7 +11,7 @@ const questionContent = document.getElementById('question-content');
 const startContent = document.getElementById('start-content');
 const modalText = document.getElementById('modal-text');
 const modal = document.getElementById('whole-modal');
-const resetBtn = document.getElementById('reset');
+const resetBtn = document.getElementById('reset-btn');
 
 // BUTTONS
 const startBtn = document.getElementById('start-btn');
